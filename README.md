@@ -1,6 +1,6 @@
 # Projeto Cordel - Prof. Gustavo Guanabara.
 
-![screencapture](./imagens/screencapture.png.png)
+![screencapture](./imagens/screencapture.png)
 
 ## Desafio 12 - Curso HTML5 e CSS3
 
